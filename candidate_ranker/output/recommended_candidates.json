@@ -1,0 +1,246 @@
+[
+  {
+    "candidate_id": "C007",
+    "candidate_name": "Sarah Kowalski",
+    "overall_score": 5.11,
+    "semantic_similarity": 0.68,
+    "skill_match_score": 0.59,
+    "experience_alignment": 0.6,
+    "behavioral_signal_score": 0.08,
+    "matching_skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "MLOps"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Machine Learning"
+    ],
+    "strengths": [],
+    "gaps": [],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 1
+  },
+  {
+    "candidate_id": "C009",
+    "candidate_name": "Ananya Patel",
+    "overall_score": 5.07,
+    "semantic_similarity": 0.73,
+    "skill_match_score": 0.53,
+    "experience_alignment": 0.6,
+    "behavioral_signal_score": 0.08,
+    "matching_skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "MLOps"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Machine Learning"
+    ],
+    "strengths": [],
+    "gaps": [],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 2
+  },
+  {
+    "candidate_id": "C001",
+    "candidate_name": "Priya Sharma",
+    "overall_score": 4.9,
+    "semantic_similarity": 0.68,
+    "skill_match_score": 0.53,
+    "experience_alignment": 0.6,
+    "behavioral_signal_score": 0.06,
+    "matching_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "NLP"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 3
+  },
+  {
+    "candidate_id": "C004",
+    "candidate_name": "Rahul Nair",
+    "overall_score": 4.48,
+    "semantic_similarity": 0.66,
+    "skill_match_score": 0.41,
+    "experience_alignment": 0.58,
+    "behavioral_signal_score": 0.08,
+    "matching_skills": [
+      "Python",
+      "PyTorch",
+      "NLP"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Machine Learning",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: TensorFlow, Machine Learning, MLOps"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 4
+  },
+  {
+    "candidate_id": "C005",
+    "candidate_name": "Mei Chen",
+    "overall_score": 4.12,
+    "semantic_similarity": 0.63,
+    "skill_match_score": 0.29,
+    "experience_alignment": 0.6,
+    "behavioral_signal_score": 0.08,
+    "matching_skills": [
+      "Python",
+      "MLOps"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "NLP"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: PyTorch, TensorFlow, Machine Learning"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 5
+  },
+  {
+    "candidate_id": "C010",
+    "candidate_name": "Carlos Rivera",
+    "overall_score": 3.97,
+    "semantic_similarity": 0.63,
+    "skill_match_score": 0.23,
+    "experience_alignment": 0.66,
+    "behavioral_signal_score": 0.02,
+    "matching_skills": [
+      "Python",
+      "PyTorch"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Machine Learning",
+      "NLP",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: TensorFlow, Machine Learning, NLP"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 6
+  },
+  {
+    "candidate_id": "C003",
+    "candidate_name": "Elena Vasquez",
+    "overall_score": 3.92,
+    "semantic_similarity": 0.65,
+    "skill_match_score": 0.24,
+    "experience_alignment": 0.6,
+    "behavioral_signal_score": 0.04,
+    "matching_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "NLP",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: PyTorch, TensorFlow, Machine Learning"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 7
+  },
+  {
+    "candidate_id": "C002",
+    "candidate_name": "Arjun Mehta",
+    "overall_score": 3.79,
+    "semantic_similarity": 0.63,
+    "skill_match_score": 0.18,
+    "experience_alignment": 0.66,
+    "behavioral_signal_score": 0.02,
+    "matching_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "NLP",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: PyTorch, TensorFlow, Machine Learning"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 8
+  },
+  {
+    "candidate_id": "C008",
+    "candidate_name": "David Park",
+    "overall_score": 3.77,
+    "semantic_similarity": 0.69,
+    "skill_match_score": 0.18,
+    "experience_alignment": 0.6,
+    "behavioral_signal_score": 0.01,
+    "matching_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "NLP",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: PyTorch, TensorFlow, Machine Learning"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 9
+  },
+  {
+    "candidate_id": "C006",
+    "candidate_name": "James Okafor",
+    "overall_score": 3.03,
+    "semantic_similarity": 0.54,
+    "skill_match_score": 0.12,
+    "experience_alignment": 0.51,
+    "behavioral_signal_score": 0.03,
+    "matching_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "NLP",
+      "MLOps"
+    ],
+    "strengths": [],
+    "gaps": [
+      "Missing key skills: PyTorch, TensorFlow, Machine Learning"
+    ],
+    "recommendation": "WEAK MATCH - Limited fit",
+    "rank": 10
+  }
+]
